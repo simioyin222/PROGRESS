@@ -9,3 +9,4 @@
 ## 4:07 PM CST (2:07PM PST)  Still organziaing frontend notes
 ## 4:57 pm cst (2:57 pst) still organizing frontend almost done 
 ## 5:01 pm cst (3:01 pst) done organziaing frontend data from linkdein 
+## 5:05 pm cst (3:05 pst) starting search for ui/ux alumni from epicodus 233 results starting noew to quickly scan and see data i can take from it
