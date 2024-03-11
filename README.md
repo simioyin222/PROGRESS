@@ -7,3 +7,4 @@
 ## 2:30 pm cst (12:30pst) Forgot to say now transferring notes to notion and oraganzing 
 ## 3:26 pm cst (1:26pm pst) Still organziaing frontend notes
 ## 4:07 PM CST (2:07PM PST)  Still organziaing frontend notes
+## 4:57 pm cst (2:57 pst) still organizing frontend almost done 
