@@ -5,3 +5,4 @@
 ## 12pm cst (10am pst) Still scouting linkdein frontend profiles now taking data and taking notes from those accounts to apply to my profile
 ## 1:30 cst (11:30 pst) Forgot to note that at 12:30 cst i was Still scouting linkdein frontend profiles now taking data and taking notes from those accounts to apply to my profile , talked to fellow alumni "Dominique Youmans" so that went longer than inteneded but had great convo
 ## 2:30 pm cst (12:30pst) Forgot to say now transferring notes to notion and oraganzing 
+## 3:26 pm cst (1:26pm pst) Still organziaing frontend notes
