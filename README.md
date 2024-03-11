@@ -8,3 +8,4 @@
 ## 3:26 pm cst (1:26pm pst) Still organziaing frontend notes
 ## 4:07 PM CST (2:07PM PST)  Still organziaing frontend notes
 ## 4:57 pm cst (2:57 pst) still organizing frontend almost done 
+## 5:01 pm cst (3:01 pst) done organziaing frontend data from linkdein 
