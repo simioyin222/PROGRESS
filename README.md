@@ -12,3 +12,4 @@
 ## 5:05 pm cst (3:05 pst) starting search for ui/ux alumni from epicodus 233 results starting noew to quickly scan and see data i can take from it
 ## 5:25 pm cst (3:25 pst) Finshed search or ui/ux now organziing it 
 ## 6:37 pm cst (4:37 pst) finished organziing all info now putting it into chat gpt for better bulleted and aligned points from these based on my profile already 
+## 7:37 pm cst (5:37pst) finished using chat gpt to better provcide and combine data - tommrow will begin 10:30am cst sharp (03-12/2024) to continue recording data and placing information and data were needed then moving onto updating projects 
