@@ -19,5 +19,4 @@
 ## 11:30 am (9:30 am pst) contuining moving data 
 ## 1:00 pm (11:00 am pst) updating linkdein this is my linkdein now [Profile (1).pdf](https://github.com/simioyin222/PROGRESS/files/14576711/Profile.1.pdf)
 ## 2:30 pm (12:30pm pst) still updatring linkdein formatting in https://www.resume.lol/editor/fd2f353b-1574-49e3-9095-0aabe0103e87 as of now 
-## 3:20 pm (1:20 pm pst) done formatting linkdein now it look like this https://www.resume.lol/share/o403db3 (i still need to change and update the project mentioned and style them better so will return to this) 
-i am now brainsitorming addiontal project to make after done styling and use them as practice of learning of new skills 
+## 3:20 pm (1:20 pm pst) done formatting linkdein now it look like this https://www.resume.lol/share/o403db3 (i still need to change and update the project mentioned and style them better so will return to this) i am now brainsitorming addiontal project to make after done styling and use them as practice of learning of new skills 
