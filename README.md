@@ -17,3 +17,4 @@
 ## 10:30 am (8:30 am pst) still moving data where needed and updating linkdein and overall resume 
 ## 11:00 am (9:00am pst) scrum 
 ## 11:30 am (9:30 am pst) contuining moving data 
+## 1:00 pm (11:00 am pst) updating linkdein this is my linkdein now [Profile (1).pdf](https://github.com/simioyin222/PROGRESS/files/14576711/Profile.1.pdf)
