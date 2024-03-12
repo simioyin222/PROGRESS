@@ -18,3 +18,4 @@
 ## 11:00 am (9:00am pst) scrum 
 ## 11:30 am (9:30 am pst) contuining moving data 
 ## 1:00 pm (11:00 am pst) updating linkdein this is my linkdein now [Profile (1).pdf](https://github.com/simioyin222/PROGRESS/files/14576711/Profile.1.pdf)
+## 2:30 pm (12:30pm pst) still updatring linkdein formatting in https://www.resume.lol/editor/fd2f353b-1574-49e3-9095-0aabe0103e87 as of now 
