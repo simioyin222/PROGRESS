@@ -14,3 +14,4 @@
 ## 6:37 pm cst (4:37 pst) finished organziing all info now putting it into chat gpt for better bulleted and aligned points from these based on my profile already 
 ## 7:37 pm cst (5:37pst) finished using chat gpt to better provcide and combine data - tommrow will begin 10:30am cst sharp (03-12/2024) to continue recording data and placing information and data were needed then moving onto updating projects 
 ## 10:00 am cst (8:00 am pst) moving data where needed and updating linkdein and overall resume 
+## 10:30 am (8:30 am pst) still moving data where needed and updating linkdein and overall resume 
