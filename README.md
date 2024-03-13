@@ -24,6 +24,4 @@
 ## 4:00 PM (2:00pm pst) starting on this project first https://github.com/simioyin222/React-Js-Portfolio will be making commits here to update work of day 
 ## 10:28 am (8:30 ampst) working on react js portfolio project from yesterday click link to acesss work and progress and commits 
 ## 11:00am  (9:00am pst) scrum
-## 1:00 am  (11:00am pst) swithcing pace didint do much commits except one on portfolio which was adding the package for animations when navigating was having trouble
-figure out how to fully implement so will give it time  to give mind break gonna brainstorm some star method questions and anwsers then watch a few beginner videos how to build in forntite unreeal and take notes
-then will watch one hour long video so i will come back here to document. 
+## 1:00 am  (11:00am pst) swithcing pace didint do much commits except one on portfolio which was adding the package for animations when navigating was having trouble figure out how to fully implement so will give it time  to give mind break gonna brainstorm some star method questions and anwsers then watch a few beginner videos how to build in forntite unreeal and take notes then will watch one hour long video so i will come back here to document. 
