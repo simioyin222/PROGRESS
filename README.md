@@ -22,4 +22,5 @@
 ## 3:20 pm (1:20 pm pst) done formatting linkdein now it look like this https://www.resume.lol/share/o403db3 (i still need to change and update the project mentioned and style them better so will return to this) i am now brainsitorming addiontal project to make after done styling and use them as practice of learning of new skills 
 ## 3:26 pm (1:26pm pst) linkdein new pdf resume [Profile (2).pdf](https://github.com/simioyin222/PROGRESS/files/14578294/Profile.2.pdf) will now take breif break and begin stlying projects again 
 ## 4:00 PM (2:00pm pst) starting on this project first https://github.com/simioyin222/React-Js-Portfolio will be making commits here to update work of day 
-## 10:28 pm (8:30 ampst) working on react js portfolio project from yesterday click link to acesss work and progress and commits 
+## 10:28 am (8:30 ampst) working on react js portfolio project from yesterday click link to acesss work and progress and commits 
+## 11:00am  (9:00am pst) scrum
