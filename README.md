@@ -26,3 +26,4 @@
 ## 11:00am  (9:00am pst) scrum
 ## 1:00 pm  (11:00am pst) swithcing pace didint do much commits except one on portfolio which was adding the package for animations when navigating was having trouble figure out how to fully implement so will give it time  to give mind break gonna brainstorm some star method questions and anwsers then watch a few beginner videos how to build in forntite unreeal and take notes then will watch one hour long video so i will come back here to document. 
 ## 2:07 pm (12:00am pst) all done with star method questions tailoring and anwsers and questions now gonna start on videos to watch after lunch will link them here when i begin might start early too.
+## 2:29 pm (12:29 pst) filled out my capstone sign up https://docs.google.com/spreadsheets/d/12bYJwwhD-w-DBocdE0Fg4hQy8zMvYuK5mr8C7dk8-TU/edit#gid=0
