@@ -36,3 +36,4 @@
 ## 1:15 pm (11:15 pst) still watching videos  https://www.youtube.com/watch?v=zMMrtDfVCC8&ab_channel=FNCreate (actaully mode/build of something so rewatching multiple click throughs) 
 ## 2:15 pm stil watching videos taking notes notes on previous clicks and downloading software for practice 
 ## 3:50 pm still watching videos and taking notes software finally downloaded to practice or try a little while watching gonna switch gears into linkdein certs and start on those - its only one month trial so i will probably work on those this weekend and next week while fixing up project. 
+## 5:25 PM had meeting with you , took late late lunch , contituned watching videos and started re organzing my resources to study/get certfiications from on linkdein so on monday i have a plan and bookmark folders of what to do and what i am doing , gonna make next week schedule right now then go back to watching videos 
