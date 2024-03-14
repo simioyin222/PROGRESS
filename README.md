@@ -33,3 +33,4 @@
 ## 6:24 pm (4:24pm pst) took hour break at 3:00pm my time so 5 mins after my last commit then for the past two hours i have been writing notes and making nes from the videos i linked earlier. 
 ## 6:45 pm (4:45 pstr) all done for today still gonna watch some videos but gonna take another break from computer as a whole
 ## 10:30 am (8:30 pst) forgot to put morning commmit gonna finish up the two hours left of videos i have while freshning up a little then will transition into more styling and practining (additonally added some more videos to watch) 
+## 1:15 pm (11:15 pst) still watching videos  https://www.youtube.com/watch?v=zMMrtDfVCC8&ab_channel=FNCreate (actaully mode/build of something so rewatching multiple click throughs) 
