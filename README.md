@@ -73,4 +73,4 @@ Software Developer - AI Trainer (Contract)job description opens in a new window
 DataAnnotation
 Chicago, IL
 #  1:19 pm cst (11:19 am cst) Finished huge chunk of applications got 3 more to go then will re start back up on updating and fixing project and linkdein learning 
-
+# lunch then 3:25 pm cst finishing last application then starting updating projects again we will be finishing off https://github.com/simioyin222/React-Js-Portfolio so refer to commits the rest of the dayt to this and another rep[o soon enough here 
