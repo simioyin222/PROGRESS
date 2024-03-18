@@ -37,3 +37,39 @@
 ## 2:15 pm stil watching videos taking notes notes on previous clicks and downloading software for practice 
 ## 3:50 pm still watching videos and taking notes software finally downloaded to practice or try a little while watching gonna switch gears into linkdein certs and start on those - its only one month trial so i will probably work on those this weekend and next week while fixing up project. 
 ## 5:25 PM had meeting with you , took late late lunch , contituned watching videos and started re organzing my resources to study/get certfiications from on linkdein so on monday i have a plan and bookmark folders of what to do and what i am doing , gonna make next week schedule right now then go back to watching videos 
+## 10:30 am (8:30 anm pst) Applying to all 10 jobs on indeed for weekend training and weekend work regards to programming here are some just to show proof: 
+Social Media Coordinatorjob description opens in a new window
+Northern Peak
+Lake Barrington, IL,
+UI/UX Designer for Mobile Gamejob description opens in a new window
+The Third Cartel
+Remote
+TELUS International AI Inc logo
+Online Data Researchjob description opens in a new window
+TELUS International AI Inc
+Remote
+Software Developer Web Applicationsjob description opens in a new window
+NetStrive Consulting, LLC
+Lombard, IL
+Software Engineers/Programmersjob description opens in a new window
+MatrixSea
+Tinley Park, IL
+UX/Web Developerjob description opens in a new window
+ReVamp Wholesale
+Chicago, IL
+DataAnnotation logo
+Software Developer - AI Trainer (Contract)job description opens in a new window
+DataAnnotation
+Aurora, IL
+Frontend Engineerjob description opens in a new window
+CEEK Virtual Reality
+Chicago, IL
+Cogent Infotech Corporation logo
+Java Developer Recent Graduates - Entry Level Positionsjob description opens in a new window
+Cogent Infotech Corporation
+Chicago, IL
+DataAnnotation logo
+Software Developer - AI Trainer (Contract)job description opens in a new window
+DataAnnotation
+Chicago, IL
+
