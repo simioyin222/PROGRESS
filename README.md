@@ -72,4 +72,5 @@ DataAnnotation logo
 Software Developer - AI Trainer (Contract)job description opens in a new window
 DataAnnotation
 Chicago, IL
+#  1:19 pm cst (11:19 am cst) Finished huge chunk of applications got 3 more to go then will re start back up on updating and fixing project and linkdein learning 
 
