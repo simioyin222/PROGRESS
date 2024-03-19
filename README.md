@@ -84,3 +84,9 @@ Chicago, IL
 - Add pictures to interstress part
 - Add more blogs post
 - Make cool box / or sepration for each blog post
+## 5:33 pm cst (3:33 pdst) 
+- Fix background color to black
+- Add pictures and cool way they pop out when user hovers over them each project should have its own box essentially
+- Add pictures to interstress part
+- Add more blogs post
+- Make cool box / or sepration for each blog post
