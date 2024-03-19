@@ -77,3 +77,10 @@ Chicago, IL
 ## 5:31 pm cst got a little side tracked then jumped back in some fort videos to focus me again now styling that portfolio project from earlier that i  said i would adding two new features
 ## 11:28 am cst (9:28am pst) using contenful to incorprate blog feasture into portfolio project so will be making commits to that project
 ## 1:00 pm cst (11:am pst) still goiing throuhg contentful have some commits on portfdolio project just bnow having issues with rendering and seeing the first testing post i have made
+## 3:59 pm cst (1:59 pm pst) still editing portfolio have this more task left to add - [ ]  React-Js-Portfolio(My portfolio)
+- Fix background color to black
+- Fill in work and experince page with my resume
+- Add pictures and cool way they pop out when user hovers over them each project should have its own box essentially
+- Add pictures to interstress part
+- Add more blogs post
+- Make cool box / or sepration for each blog post
