@@ -76,3 +76,4 @@ Chicago, IL
 # lunch then 3:25 pm cst finishing last application then starting updating projects again we will be finishing off https://github.com/simioyin222/React-Js-Portfolio so refer to commits the rest of the dayt to this and another rep[soon here)
 ## 5:31 pm cst got a little side tracked then jumped back in some fort videos to focus me again now styling that portfolio project from earlier that i  said i would adding two new features
 ## 11:28 am cst (9:28am pst) using contenful to incorprate blog feasture into portfolio project so will be making commits to that project
+## 1:00 pm cst (11:am pst) still goiing throuhg contentful have some commits on portfdolio project just bnow having issues with rendering and seeing the first testing post i have made
