@@ -90,3 +90,4 @@ Chicago, IL
 - Add pictures to interstress part
 - Add more blogs post
 - Make cool box / or sepration for each blog post
+## 1;02 pm (11:02 pm pst) completely forogot to mark into here fiinsihing off portfolio today , began the day by watching these videos like https://www.youtube.com/watch?v=ZA6j2PhXSUg to corproate emails from user inputs as well so been going through that gonna swithc pace into actaully adding the addiontal features so refer to this for updates https://github.com/simioyin222/React-Js-Portfolio
